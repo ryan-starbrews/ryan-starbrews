@@ -1,4 +1,9 @@
-<img width="3300" height="1281" alt="Group 239 (1)" src="https://github.com/user-attachments/assets/5c64f0e8-ca84-4a3f-9e1e-d5c49c03352b" />
+<img
+  width="3300"
+  height="1281"
+  alt="Group 239 (1)"
+  src="https://github.com/user-attachments/assets/5c64f0e8-ca84-4a3f-9e1e-d5c49c03352b"
+/>
 
 <p align="center">
   <a href="https://discord.com/users/701517787776024647" target="_blank">
@@ -15,48 +20,68 @@
   </a>
 </p>
 
+<h2 align="center"><b>About Me</b></h2>
 
-<br>
-
-<h2 align="center"> <b>About Me</bm></h2>
-
-<img src="https://github.com/user-attachments/assets/82976422-6595-4d0f-943d-4f81a1a27d8d" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
-<p>
-  Hello There! <b> I'm Ryan</b>, the co-owner of StarBrews! I enjoy creating and managing all of our online resources, like our documentation site! 
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h2 align="center"> <b>Points of Contact</bm></h2>
-
-<img src="https://github.com/user-attachments/assets/26cb0743-7fae-4590-89b1-0ebeb9fc49f8" width="250" align="left" style="margin-left: 20px;" />
-<br/>
+<img
+  src="https://github.com/user-attachments/assets/82976422-6595-4d0f-943d-4f81a1a27d8d"
+  width="250"
+  align="right"
+  style="margin-left: 20px;"
+/>
 
 <p>
-  For all general inquiries: [ryan@starbrews.cafe](mailto:ryan@starbrews.cafe)
-  > - [ryan@starbrews.cafe](mailto:ryan@starbrews.cafe) (Head Web Designer)
-
+  Hello There! <b>I'm Ryan</b>, the co-owner of StarBrews! I enjoy creating and
+  managing all of our online resources, like our documentation site!
 </p>
 
- 
+<div style="clear: both;"></div>
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+<h2 align="center"><b>Points of Contact</b></h2>
 
+<img
+  src="https://github.com/user-attachments/assets/e86b9c3a-240a-4cba-8362-2ef34d95c9e1"
+  width="250"
+  align="left"
+/>
 
+<div style="margin-left: 280px;">
+  <ul>
+    <li>
+      Main Email:
+      <a href="mailto:ryan@starbrews.cafe">ryan@starbrews.cafe</a>
+    </li>
+    <li>
+      Staffing Email:
+      <a href="mailto:staffing@starbrews.cafe">staffing@starbrews.cafe</a>
+    </li>
+    <li>
+      Discord:
+      <a href="https://discord.com/users/701517787776024647">@lock3t.</a>
+    </li>
+    <li>
+      StarBrews Support Ticket:
+      <a href="https://discord.com/users/1355734335495344189">
+        @StarBrews Utilities#0461
+      </a>
+    </li>
+  </ul>
 </div>
-
-<h2 align="center"">  </b> Statistics </b> </h2>
+<br/> 
+<br/>
+<br/> 
+<br/> 
+<br/> 
+<br/>
+<br/>
+<br/>
+<h2 align="center"">  </b>My Statistics </b> </h2>
 
 <div align = "center"> 
 
