@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="center"> <b>About  me </bm></h2>
+<h2 align="center"> <b>About Me</bm></h2>
 
 <img src="https://github.com/user-attachments/assets/82976422-6595-4d0f-943d-4f81a1a27d8d" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -26,7 +26,25 @@
 <p>
   Hello There! <b> I'm Ryan</b>, the co-owner of StarBrews! I enjoy creating and managing all of our online resources, like our documentation site! 
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h2 align="center"> <b>Points of Contact</bm></h2>
 
+<img src="https://github.com/user-attachments/assets/26cb0743-7fae-4590-89b1-0ebeb9fc49f8" width="250" align="left" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  For all general inquiries: [ryan@starbrews.cafe](mailto:ryan@starbrews.cafe)
+  > - [ryan@starbrews.cafe](mailto:ryan@starbrews.cafe) (Head Web Designer)
+
+</p>
+
+ 
 <br/>
 <br/>
 <br/>
