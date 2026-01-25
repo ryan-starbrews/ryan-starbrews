@@ -30,8 +30,8 @@
 />
 
 <p>
-  Hello There! <b>I'm Ryan</b>, the co-owner of StarBrews! I enjoy creating and
-  managing all of our online resources, like our documentation site!
+Hello! <b>I'm Ryan</b>, co-owner of StarBrews. I focus on building and managing our online presence and resources, including our documentation site and other digital resources. I began working on Starbrews with Nico back in March 2025, and since then, I've taken on leadership roles across multiple departments, including staffing, public relations, web design, and online resources.
+  
 </p>
 
 <div style="clear: both;"></div>
@@ -49,37 +49,42 @@
   src="https://github.com/user-attachments/assets/e86b9c3a-240a-4cba-8362-2ef34d95c9e1"
   width="250"
   align="left"
+  style="margin-left: 20px;"
 />
 
 <div style="margin-left: 280px;">
+Looking to reach me? The following points of contact are the quickest ways to get in touch!
+<br/> 
+<br/> 
   <ul>
     <li>
-      Main Email:
+            Main Email:
       <a href="mailto:ryan@starbrews.cafe">ryan@starbrews.cafe</a>
     </li>
     <li>
-      Staffing Email:
+            Staffing Email:
       <a href="mailto:staffing@starbrews.cafe">staffing@starbrews.cafe</a>
     </li>
     <li>
-      Discord:
+            Discord:
       <a href="https://discord.com/users/701517787776024647">@lock3t.</a>
     </li>
     <li>
-      StarBrews Support Ticket:
+            StarBrews Support Ticket:
       <a href="https://discord.com/users/1355734335495344189">
         @StarBrews Utilities#0461
+     </li>
+    <li>
+            Alternative StarBrews Email:
+      <a href="mailto:ryan.starbrews@gmail.com">ryan.starbrews@gmail.com
       </a>
     </li>
   </ul>
+If you don’t hear from me within 2 days, feel free to reach out via Discord DM.
 </div>
 <br/> 
 <br/>
-<br/> 
-<br/> 
-<br/> 
-<br/>
-<br/>
+<br/>        
 <br/>
 <h2 align="center"">  </b>My Statistics </b> </h2>
 
