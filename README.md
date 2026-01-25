@@ -14,3 +14,35 @@
     <img src="https://img.shields.io/badge/docs_page-232c0d?style=for-the-badge" />
   </a>
 </p>
+
+
+<br>
+
+<h2 align="center"> <b>About  me </bm></h2>
+
+<img src="https://github.com/user-attachments/assets/82976422-6595-4d0f-943d-4f81a1a27d8d" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <b> I'm Ryan</b>, the co-owner of StarBrews! I enjoy creating and managing all of our online resources, like our documentation site! 
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+</div>
+
+<h2 align="center"">  </b> Statistics </b> </h2>
+
+<div align = "center"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-starbrews&show_icons=true&bg_color=232c0d&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=ryan-starbrews&theme=dark&background=232c0d&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-starbrews&bg_color=232c0d&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
