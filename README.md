@@ -4,8 +4,8 @@
   <a href="https://discord.com/users/701517787776024647" target="_blank">
     <img src="https://img.shields.io/badge/discord-232c0d?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-232c0d?style=for-the-badge&logo=<img width="713" height="713" alt="favicon" src="https://github.com/user-attachments/assets/fec4a22b-2ff4-4f27-9e46-b33c652533de" />" />
+ <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-232c0d?style=for-the-badge&logo=data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAskAAALJCAYAAABGNb7tAAAACXBIWXMAAAsTAAALEwEAmpwYAAAgAElEQVR4nOyde5BdV33fPzvP3N2Zk5mZ3Znd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3
   </a>
   <a href="https://www.codechef.com/users/glorfindell" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-232c0d?style=for-the-badge&logo=codechef&logoColor=white" />
