@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/701517787776024647" target="_blank">
-    <img src="https://img.shields.io/badge/discord-232c0d?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/discord-232c0d?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
