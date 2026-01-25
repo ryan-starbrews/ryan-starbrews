@@ -1,1 +1,1 @@
-![9660c400bb40d456703eeb4bd8c85da0](https://github.com/user-attachments/assets/3a03bf23-e061-4cda-997f-ffed285bd1a0)
+<img width="3300" height="1281" alt="Group 239 (1)" src="https://github.com/user-attachments/assets/5c64f0e8-ca84-4a3f-9e1e-d5c49c03352b" />
