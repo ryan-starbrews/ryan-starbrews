@@ -4,9 +4,6 @@
   <a href="https://discord.com/users/701517787776024647" target="_blank">
     <img src="https://img.shields.io/badge/discord-232c0d?style=for-the-badge" />
   </a>
-<a href="https://codeforces.com/profile/Glorfindell" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-232c0d?style=for-the-badge" />
-  </a>
   <a href="https://www.ryan.starbrews.cafe" target="_blank">
     <img src="https://img.shields.io/badge/my_website-232c0d?style=for-the-badge" />
   </a>
