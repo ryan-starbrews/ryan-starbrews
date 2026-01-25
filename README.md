@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://discord.com/users/701517787776024647" target="_blank">
-    <img src="https://img.shields.io/badge/discord-232c0d?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/discord-232c0d?style=for-the-badge" />
   </a>
 <a href="https://codeforces.com/profile/Glorfindell" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-232c0d?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FUSERNAME%2FREPO%2Fmain%2Fstarbrews.png&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Codeforces-232c0d?style=for-the-badge" />
   </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-232c0d?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://www.ryan.starbrews.cafe" target="_blank">
+    <img src="https://img.shields.io/badge/my_website-232c0d?style=for-the-badge" />
   </a>
   <a href="https://www.pinterest.com/ryansmountains/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-232c0d?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/pinterest-232c0d?style=for-the-badge" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-232c0d?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="https://www.docs.starbrews.cafe" target="_blank">
+    <img src="https://img.shields.io/badge/docs_page-232c0d?style=for-the-badge" />
   </a>
 </p>
