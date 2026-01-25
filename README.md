@@ -1,8 +1,8 @@
 <img width="3300" height="1281" alt="Group 239 (1)" src="https://github.com/user-attachments/assets/5c64f0e8-ca84-4a3f-9e1e-d5c49c03352b" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <a href="https://discord.com/users/701517787776024647" target="_blank">
+    <img src="https://img.shields.io/badge/discord-232c0d" />
   </a>
   <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
