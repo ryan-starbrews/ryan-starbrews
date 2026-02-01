@@ -91,7 +91,7 @@ If you don't hear from me within 2 days, please contact me through Discord DMs.
 
 <div align = "center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-starbrews&show_icons=true&bg_color=232c0d&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=ryan-starbrews&theme=dark&background=232c0d&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=ryan-starbrews&show_icons=true&bg_color=232c0d&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=ryan-starbrews&theme=dark&background=232c0d&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan-starbrews&bg_color=232c0d&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
