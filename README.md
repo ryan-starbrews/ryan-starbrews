@@ -67,7 +67,7 @@ Want to get in contact with me? The following points of contact are the quickest
     </li>
     <li>
             Discord:
-      <a href="https://discord.com/users/701517787776024647">@lock3t.</a>
+      <a href="https://discord.com/users/701517787776024647">@nvbodysboy.</a>
     </li>
     <li>
             StarBrews Support Ticket:
